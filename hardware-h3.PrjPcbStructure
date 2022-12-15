@@ -1,1 +1,9 @@
-Record=TopLevelDocument|FileName=gaga.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=ddr3.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=emmc.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=gaga.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=gpiog-l.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=io.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=PHY-AUDIO-HDMI-TVout.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=screw.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ddr3.SchDoc|FileName=usb-sys.SchDoc|SheetNumber=9
